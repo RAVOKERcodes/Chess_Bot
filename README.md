@@ -1,4 +1,4 @@
-<h1>chess-bot</h1>
+<h1>Chess-Bot</h1>
 A chess engine by someone who has interst but don't know how to play chess.
 
 <h2>About</h2>
